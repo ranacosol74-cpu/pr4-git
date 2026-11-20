@@ -1,4 +1,4 @@
-LIMIT = 10
+LIMIT = 15
 
 
 def read_order():
